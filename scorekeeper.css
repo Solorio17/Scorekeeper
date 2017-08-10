@@ -1,0 +1,50 @@
+.winner{
+  color: limegreen;
+  font-size: 38px;
+}
+
+input{
+  width: 70px;
+}
+
+.p1Spancontainer{
+  width: 65px;
+  background: blue;
+  color: white;
+  display: inline-block;
+  text-align: center;
+  justify-content: center;
+}
+
+.p2Spancontainer{
+  width: 65px;
+  background: red;
+  color: white;
+  display: inline-block;
+  text-align: center;
+}
+
+.p1{
+  color: white;
+  background: blue;
+  border: none;
+}
+.p2{
+  color: white;
+  background: red;
+  border: none;
+}
+
+.playagain{
+  background: black;
+  color: white;
+  border: none;
+}
+
+.scorecontainer{
+  text-align: left;
+  padding-left: 40px;
+}
+.amount{
+  margin-top: 20px;
+}
